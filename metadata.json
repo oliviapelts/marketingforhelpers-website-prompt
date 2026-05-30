@@ -1,0 +1,6 @@
+{
+  "name": "Marketing for Helpers",
+  "description": "An easy website builder and marketing optimizer tailored for therapists, doctors, doulas, midwives, and helping professionals with calendar integrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
