@@ -151,16 +151,16 @@ export const HELPER_TYPE_PRESETS: Record<HelperType, {
     crisisNoteNeeded: false
   },
   Acupuncturist: {
-    defaultTitle: "Classical Acupuncture, Meridian & Somatic Healing",
-    defaultPhilosophy: "Restoring physiological balance, soothing chronic muscular distress, and regulating the autonomic nervous system via traditional Chinese medicine pathways.",
-    defaultServices: "Comprehensive Meridian Assessment, Somatic Acupuncture Care, Cupping & Herbal Consultation",
+    defaultTitle: "Classical Acupuncture, Meridian & Oriental Balancing",
+    defaultPhilosophy: "Restoring physiological balance, soothing chronic muscular distress, and restoring energetic flow via traditional Chinese medicine pathways.",
+    defaultServices: "Comprehensive Meridian Assessment, Traditional Acupuncture Care, Cupping & Herbal Consultation",
     icons: ["Zap", "Sparkles", "Heart"],
     crisisNoteNeeded: false
   },
   "Massage Therapist": {
-    defaultTitle: "Somatic Bodywork & Deep Tissue Rehabilitation",
-    defaultPhilosophy: "Relieving physical tension, facilitating deep muscular recovery, and calming somatic nervous systems through targeted manual touch.",
-    defaultServices: "Deep Tissue Muscle Therapy, Somatic Myofascia Flow, Integrative Stress Relief Bodywork",
+    defaultTitle: "Integrative Muscle Bodywork & Deep Tissue Restoration",
+    defaultPhilosophy: "Relieving physical tension, facilitating deep muscular recovery, and calming tight nerve pathways through targeted manual touch.",
+    defaultServices: "Deep Tissue Muscle Therapy, Neuromuscular Myofascia Flow, Integrative Stress Relief Bodywork",
     icons: ["HeartHandshake", "Smile", "Plus"],
     crisisNoteNeeded: false
   },
@@ -172,9 +172,9 @@ export const HELPER_TYPE_PRESETS: Record<HelperType, {
     crisisNoteNeeded: false
   },
   "OT/PT": {
-    defaultTitle: "Occupational, Physical & Somatic Therapy",
+    defaultTitle: "Occupational, Physical & Functional Therapy",
     defaultPhilosophy: "Empowering daily movement mastery, sensory regulation, physical rehabilitation, and skeletal alignment to restore your active independence.",
-    defaultServices: "Somatic Functional Assessment, Muscle Rehabilitation Session, Custom Daily Exercise System",
+    defaultServices: "Functional Kinetic Assessment, Muscle Rehabilitation Session, Custom Daily Exercise System",
     icons: ["Activity", "Layers", "Award"],
     crisisNoteNeeded: false
   },
@@ -200,9 +200,9 @@ export const HELPER_TYPE_PRESETS: Record<HelperType, {
     crisisNoteNeeded: false
   },
   Physiotherapist: {
-    defaultTitle: "Somatic Physical Rehabilitation & Healing",
+    defaultTitle: "Biomechanical Physical Rehabilitation & Strength",
     defaultPhilosophy: "Empowering hands-on healing, muscular re-education, mobility alignment, and custom kinetic training to restore confident movement.",
-    defaultServices: "In-Depth Somatic Functional Mobility Assessment, Manual Soft Tissue Release, Customized Orthopedic Recovery Planning",
+    defaultServices: "Kinetic Functional Mobility Assessment, Manual Soft Tissue Release, Customized Orthopedic Recovery Planning",
     icons: ["Zap", "Users", "Briefcase"],
     crisisNoteNeeded: false
   },
